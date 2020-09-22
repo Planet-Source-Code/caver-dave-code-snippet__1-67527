@@ -1,0 +1,8 @@
+Code Snippet
+
+Small application for organising VB code and then viewing it
+If like me you write bits of code then save it for a rainy day when it will be useful and then forget where you have saved it, this is the program for you.
+Written without any dll's or ocx's a plain and simple app.
+I like it and use it - try it and see what you think
+
+Updated app: added 1 button select and copy code display for added functionality, once again nothing fancy - plain and simple and easy to follow
